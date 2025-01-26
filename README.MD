@@ -67,6 +67,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 </table>
 
 ### 🛠 Tooling
+## By Mudassir Alam
 
 [Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile) for Android Studio
 > The Kotlin Multiplatform Mobile (KMM) plugin helps you develop applications that work on both Android and iOS.
